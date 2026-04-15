@@ -1,20 +1,14 @@
-# Software Engineering Knowledge Base - Index
+# Software Engineering Knowledge Base
 
-This is the central hub for all my Software Engineering notes.
+This is my personal knowledge vault covering core software engineering topics.
 
----
+## Current Domains
 
-## Core Topics
-
-- [[System Design]]
-- [[Distributed Systems]]
-- [[Cloud Computing]]
-- [[AI and Machine Learning]]
-- [[Mobile Development]]
-- [[Backend Architecture]]
-- [[Frontend Architecture]]
-- [[DevOps and Infrastructure]]
-- [[Databases]]
-- [[Security]]
+- [[Security]] — Security principles, cryptography, authentication, and protection mechanisms
+- [[AI]] — Artificial Intelligence, Machine Learning, and Large Language Models
+- [[Distributed-Systems]] — Distributed systems, scalability, consensus, and fault tolerance
+- [[System-Design]] — System design patterns, architecture, and scalability strategies
 
 ---
+
+Last updated: {{date}}
