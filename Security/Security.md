@@ -9,6 +9,7 @@ This domain covers all aspects of security in software systems, including protec
 - [[Authorization]] — Controlling access and permissions (RBAC, ABAC, least privilege, etc.)
 - [[Network-Security]] — Secure communication, firewalls, TLS, VPNs, and attack mitigation
 - [[Application-Security]] — Secure coding practices, vulnerabilities, and defense techniques
+- [[Rate-Limiting]] — Controlling request rates to prevent abuse, protect resources, and manage load
 
 ---
 
