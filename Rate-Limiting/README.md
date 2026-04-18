@@ -31,3 +31,8 @@ Rate limiting is a technique used to control the rate of requests sent to a serv
 - Consider different limits for different user tiers
 - Monitor and adjust limits based on actual usage patterns
 - Provide clear error messages when limits are exceeded
+
+## Questions
+1. Do you have experience working with APIs, or have you encountered situations where too many requests were being sent to a server?
+2. When you're building a system, how do you think about deciding what limits to set? Is it based on server capacity, user experience, or something else?
+3. When implementing rate limiting at the API endpoint level, what are some common approaches or algorithms that are used? Have you come across any specific methods like token bucket or leaky bucket?
